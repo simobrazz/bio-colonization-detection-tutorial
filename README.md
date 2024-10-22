@@ -29,7 +29,9 @@ You need to have the following packages installed in your Python environment bef
 pip install requests Pillow geopy
 ```
 
-## Tutorial
+------------------------------------------------------------------
+
+# Tutorial
 
 Follow these steps to detect bio-colonization defects using the Cultural Arts SaaS API.
 
